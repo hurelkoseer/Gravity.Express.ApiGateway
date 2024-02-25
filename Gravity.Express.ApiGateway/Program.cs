@@ -17,10 +17,7 @@ builder.Services.AddCors(options =>
 var app = builder.Build();
 
 app.UseCors("CorsPolicy");
-app.UseEndpoints(endpoints =>
-{
-    endpoints.MapHealthChecks("/health");
-});
+ 
 
 app.UseOcelot();
 
