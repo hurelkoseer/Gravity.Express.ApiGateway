@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "37ZqXPBIsoU9LeMaK5garUDIbkA2979/dxLpWTssiZY=",
+  "Source": "Gravity.Express.ApiGateway",
+  "BasePath": "_content/Gravity.Express.ApiGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
