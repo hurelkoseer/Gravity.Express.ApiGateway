@@ -18,8 +18,8 @@ builder.Services.AddAuthentication(options =>
         options.Audience = "gravity.express.api";
         options.TokenValidationParameters = new TokenValidationParameters
         {
-           ValidateIssuer = false,
-           ValidateAudience = false
+           //ValidateIssuer = false,
+           //ValidateAudience = false
         };
     });
 
