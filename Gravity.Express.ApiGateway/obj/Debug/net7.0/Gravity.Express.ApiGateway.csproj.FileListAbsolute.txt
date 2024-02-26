@@ -35,3 +35,11 @@
 /Users/hurel.koseer/RiderProjects/Gravity.Express.ApiGateway/Gravity.Express.ApiGateway/obj/Debug/net7.0/Gravity.Express.ApiGateway.pdb
 /Users/hurel.koseer/RiderProjects/Gravity.Express.ApiGateway/Gravity.Express.ApiGateway/obj/Debug/net7.0/Gravity.Express.ApiGateway.genruntimeconfig.cache
 /Users/hurel.koseer/RiderProjects/Gravity.Express.ApiGateway/Gravity.Express.ApiGateway/obj/Debug/net7.0/ref/Gravity.Express.ApiGateway.dll
+/Users/hurel.koseer/RiderProjects/Gravity.Express.ApiGateway/Gravity.Express.ApiGateway/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/hurel.koseer/RiderProjects/Gravity.Express.ApiGateway/Gravity.Express.ApiGateway/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/hurel.koseer/RiderProjects/Gravity.Express.ApiGateway/Gravity.Express.ApiGateway/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/hurel.koseer/RiderProjects/Gravity.Express.ApiGateway/Gravity.Express.ApiGateway/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/hurel.koseer/RiderProjects/Gravity.Express.ApiGateway/Gravity.Express.ApiGateway/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/hurel.koseer/RiderProjects/Gravity.Express.ApiGateway/Gravity.Express.ApiGateway/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/hurel.koseer/RiderProjects/Gravity.Express.ApiGateway/Gravity.Express.ApiGateway/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/hurel.koseer/RiderProjects/Gravity.Express.ApiGateway/Gravity.Express.ApiGateway/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
