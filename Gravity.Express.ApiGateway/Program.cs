@@ -1,3 +1,4 @@
+using Microsoft.IdentityModel.Tokens;
 using Ocelot.DependencyInjection;
 using Ocelot.Middleware;
 
@@ -13,8 +14,13 @@ builder.Services.AddAuthentication(options =>
     .AddJwtBearer("Bearer", options =>
     {
         options.Authority = "http://localhost:5005"; 
-        options.RequireHttpsMetadata = false;  
-        options.Audience = "gravity.express.api";  
+        options.RequireHttpsMetadata = false;
+        options.Audience = "gravity.express.api";
+        options.TokenValidationParameters = new TokenValidationParameters
+        {
+           ValidateIssuer = false,
+           ValidateAudience = false
+        };
     });
 
 builder.Services.AddOcelot();
